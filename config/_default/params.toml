@@ -137,13 +137,3 @@ darkTheme = ""
 reactionsEnabled = 1
 emitMetadata = 0
 
-[comments.gitalk]
-owner = ""
-admin = ""
-repo = ""
-clientID = ""
-clientSecret = ""
-
-[comments.cusdis]
-host = ""
-id = ""
