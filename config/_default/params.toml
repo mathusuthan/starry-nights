@@ -65,7 +65,7 @@ src = ""
 
 [colorScheme]
 toggle = true
-default = "auto"
+default = "light"
 
 [imageProcessing.cover]
 enabled = true
@@ -75,7 +75,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
