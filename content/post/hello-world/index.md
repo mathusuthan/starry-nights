@@ -2,7 +2,7 @@
 title: Hello everyone 
 description: Welcome to my blog
 slug: hello-world
-date: 2024-09-03 10:00:00+0000
+date: 2024-09-03 10:00:00+0530
 image: cover.jpg
 author: Mathusuthan N Kannan
 categories:
